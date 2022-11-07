@@ -1,0 +1,8 @@
+House prices have long been seen as a significant indicator of economic growth, as they strongly affect, either positively or negatively, investments in construction-related industries. At the individual level, they are highly related to consumer confidence and spending.
+Therefore, predicting house prices correctly and efficiently helps individuals, companies, and governments make informed decisions. Building a robust model of house prices using appropriate data mining techniques is particularly beneficial for online real estate companies, as proven in Zillow’s recent derailed home-flipping business.  
+	This proposal briefly describes the data and our plan to finish this project. We aim to establish a timeline for data pre-processing, implementing algorithms, and evaluation, which allows us to meet the scheduled checkpoints set throughout the semester. 
+The Ames Housing Data
+In this project, we will work on the Ames Housing dataset (De Cock, 2011). Compiled for use in data science education, it includes 2,930 observations and is a “modernized and expanded
+version” of the often-cited Boston Housing dataset (Harrison and Rubinfeld 1978). The most valuable nature of this dataset is the diversity of its 80 variables. They describe many attributes of the residential homes and cover multiple data categories (i.e., 20 continuous, 14 discrete, and 46 categorical), giving us a learning opportunity for data encoding and conversion. 
+
+To test code, prepare data and train a model run main.py
